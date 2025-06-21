@@ -30,7 +30,7 @@ This app is designed specifically for children. We follow guidelines to keep you
 If you have any questions, feel free to reach out:
 
 **Developer:** Amit Abhishek  
-**Email:** amitabhishek1978@gmail.com
+**Email:** amit@stillwrinkled.com
 
 ---
 
